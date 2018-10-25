@@ -251,4 +251,26 @@ body {
   .initial-slide {
     display:block;
   }
+
+  .testimonial-text {
+    font-style:italic;
+    font-size: 13px;
+    padding: 0 0 1em 0;
+  }
+  
+  .testimonial-pic {
+    border-radius: 50%;
+    height: 50px;
+    width: 75px;
+  }
+
+  .testimonial-name {
+    font-size: 18px;
+    width: 50px;
+  }
+  
+  .testimonial-company {
+    color: grey;
+    font-size: 14px;
+  }
   
