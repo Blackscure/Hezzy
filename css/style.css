@@ -197,4 +197,15 @@ body {
     height: 1px;
     width: 90px;
   }
+
+  .procedure-subtext {
+    font-size: 12px;
+    color:grey;
+  }
+  
+  .explore-features-container {
+    margin-top: 3.5em;
+    text-align:center;
+  }
+  
   
