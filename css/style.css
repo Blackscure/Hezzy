@@ -239,4 +239,16 @@ body {
   .slideshow-container {
     margin: 5em 0 5em 0;
   }
+
+  .slider {
+    display:none;
+    border: solid grey;
+    border-width: thin;
+    border-radius: 1%;
+    padding: 2em 1em 2em 1em;
+  }
+  
+  .initial-slide {
+    display:block;
+  }
   
