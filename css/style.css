@@ -34,3 +34,12 @@ body {
     display: inline;
     float: right;
   }
+
+  .get-started-login {
+    background-color: #2CA5E4;
+    border: none;
+    color: white;
+    font-size: 13px;
+    padding: .5em;
+    border-radius: 3%;
+  }
