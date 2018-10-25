@@ -273,4 +273,27 @@ body {
     color: grey;
     font-size: 14px;
   }
+
+  .trusted-companies-container {
+    text-align:center;
+    color:#403e3e;
+    margin: 2em 0 6em 0;
+  }
+  
+  .trusted-companies {
+    margin-bottom: .5em;
+  }
+  
+  
+  
+  .signup-banner {
+    background-color: #2CA5E4;
+    text-align:center;
+  }
+  
+  .signup-banner-text-container {
+    color:white;
+    margin-top: 3em;
+    margin-bottom: 3em;
+  }
   
