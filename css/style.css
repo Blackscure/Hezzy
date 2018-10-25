@@ -173,4 +173,12 @@ body {
   margin-top: 3em;
   margin-bottom: 1em;
 }
+
+.blue-line {
+    margin-top: 1em;
+    margin-bottom: 2em;
+    background-color: #2CA5E4;
+    height: 1px;
+    width: 90px;
+  }
   
