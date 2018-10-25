@@ -208,4 +208,19 @@ body {
     text-align:center;
   }
   
+  .explore-features-button {
+    color: #2CA5E4;
+    background-color:white;
+    border: solid #2CA5E4;
+    border-width: thin;
+    padding: .75em;
+    font-size: 12px;
+    border-radius: 3%;
+  }
+  
+  .explore-features-button:hover {
+    background-color: #2CA5E4;
+    color: white;
+    cursor: pointer;
+  }
   
