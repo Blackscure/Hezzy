@@ -49,3 +49,9 @@ body {
     color: #2CA5E4;
     cursor: pointer;
   }
+
+  .get-started-free:hover {
+    background-color: white;
+    color: #2CA5E4;
+    cursor: pointer;
+  }
