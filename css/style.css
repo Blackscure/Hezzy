@@ -65,3 +65,19 @@ body {
     text-align:center;
     color: white;
   }
+
+  .title-automation-text {
+    text-align:center;
+    color:white;
+    font-weight: bold;
+  }
+
+  .title-description-text {
+    text-align:center;
+    margin-top: 2em;
+    color:white;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 3.5em;
+  }
+  
