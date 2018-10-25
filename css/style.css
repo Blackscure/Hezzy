@@ -81,3 +81,10 @@ body {
     margin-bottom: 3.5em;
   }
   
+  .title-email-field {
+    border: solid lightgrey;
+    border-width: thin;
+    height: 2.5em;
+    color:white;
+    border-radius: 3%;
+  }
