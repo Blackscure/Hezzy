@@ -88,3 +88,19 @@ body {
     color:white;
     border-radius: 3%;
   }
+
+  .aligned {
+    text-align:center;
+  }
+  
+  .title-get-started-button {
+    height: 2.5em;
+    border: solid white;
+    border-width: thin;
+    padding: .5em;
+    padding-right: 1em;
+    padding-left: 1em;
+    color: white;
+    background-color: #2CA5E4;
+    border-radius: 3%;
+  }
