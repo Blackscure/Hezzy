@@ -181,4 +181,12 @@ body {
     height: 1px;
     width: 90px;
   }
+
+  .red-line {
+    margin-top: 1em;
+    margin-bottom: 2em;
+    background-color: red;
+    height: 1px;
+    width: 90px;
+  }
   
