@@ -43,3 +43,9 @@ body {
     padding: .5em;
     border-radius: 3%;
   }
+
+  .get-started-login:hover {
+    background-color: white;
+    color: #2CA5E4;
+    cursor: pointer;
+  }
