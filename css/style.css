@@ -130,3 +130,25 @@ body {
     margin-top: 1em;
     text-align:center;
   }
+
+  .title-play-icon {
+    color: white;
+    display:inline-flex;
+    align-content: center;
+    vertical-align: middle;
+    margin-right: 5em;
+    margin-left: 1em;
+    font-size: 8px;
+  }
+
+  .watch-video-container:hover {
+    cursor: pointer;
+      text-shadow: 0px 0px 10px rgba(255,255,100,1);
+  }
+  
+  
+  
+  .work-flow-container {
+    margin-top: 5em;
+    text-align:center;
+  }
