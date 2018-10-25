@@ -23,3 +23,14 @@ body {
     font-size: 10px;
     color:lightgrey;
   }
+
+  .hiring-text:hover {
+    text-decoration: underline;
+    color: #FEFFFF;
+    cursor:pointer;
+  }
+  
+  .get-started {
+    display: inline;
+    float: right;
+  }
