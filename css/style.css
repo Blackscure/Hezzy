@@ -163,4 +163,14 @@ body {
     margin-top: 9em;
     text-align:center;
   }
+
+  .client-onboard-container img {
+    margin-left: 33%;
+    margin-top: 3em;
+}
+
+.lightbulb-icon {
+  margin-top: 3em;
+  margin-bottom: 1em;
+}
   
